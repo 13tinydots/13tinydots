@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @13tinydots
 - 👀 I’m interested in Web Development, Machine Learning and TensorFlow
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m not looking to collaborate at the moment as my projects are for classs 
 - 📫 How to reach me - 13tinydots@gmail.com
 
 <!---
